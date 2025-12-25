@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AudioBookConverter.Tests/AudioBookConverter.Tests.csproj" />
+  <Project Path="AudioBookConverter/AudioBookConverter.csproj" />
+</Solution>
